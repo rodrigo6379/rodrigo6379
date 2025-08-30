@@ -52,6 +52,3 @@ No atual momente estou estudando para desenvolver meu conhecimento em linguagens
 
 </p>
 
-
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigo6379/rodrigo6379/output/github-contribution-grid-snake.svg">
-</picture>
