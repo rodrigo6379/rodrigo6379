@@ -57,6 +57,10 @@ No atual momente estou estudando para desenvolver meu conhecimento em linguagens
 </picture>
 
 
+## 📬 **Entre em Contato!**
+📩 **Email:** Rodrigo.felipe.rd@gmail.com
+💼 **LinkedIn:** www.linkedin.com/in/rodrigo-felipe-894b1027b
+
 
 </p>
 
