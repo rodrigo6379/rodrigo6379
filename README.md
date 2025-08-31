@@ -1,7 +1,7 @@
 ## Olá Sou o Rodrigo 👋
 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Rodrigo Felipe, tenho 27 anos e sou natural de São Paulo. Concluí o ensino médio em uma escola estadual na zona letse , cursando Análise e Desenvolvimento de sistemas na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia desde pequeno. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 <p align="left">
