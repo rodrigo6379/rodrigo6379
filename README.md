@@ -28,7 +28,7 @@ Me chamo Rodrigo Felipe, tenho 27 anos e sou natural de São Paulo. Concluí o e
 
 **`Em Desenvolvimento`**
 
-No atual momente estou estudando para desenvolver meu conhecimento em linguagens.
+No atual momente estou estudando para desenvolver meu conhecimento em linguagens HTML,CSS,JAVA SCRIPT.
 
 <br/>
 
